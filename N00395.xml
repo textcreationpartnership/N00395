@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000489_0000_0FA67327A8034170"/>
-            <pb facs="tcp:000489_0001_0FA6732859146518"/>
+            <pb facs="unknown:000489_0000_0FA67327A8034170"/>
+            <pb facs="unknown:000489_0001_0FA6732859146518"/>
             <p>Work upon the Ark.</p>
             <p>Meditations upon the ARK As a <hi>Type</hi> of the <hi>CHURCH</hi>; Delivered in a SERMON at <hi>Boston,</hi> And now Dedicated unto the Service of <hi>All,</hi> 
                <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -146,7 +146,7 @@
                <hi>Boston</hi> Printed by <hi>Samuel Green,</hi> and Sold by <hi>Joseph Browning</hi> at the corner of the <hi>Prison Lane.</hi> 1689.</p>
          </div>
          <div type="quotation">
-            <pb facs="tcp:000489_0002_0FA6732A797D21F0"/>
+            <pb facs="unknown:000489_0002_0FA6732A797D21F0"/>
             <head>Quae <hi>Navis</hi> Vetustissima, Capacissi<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>, San<g ref="char:EOLhyphen"/>tissima, Ditissimaque omnium <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -158,7 +158,7 @@
             <p>Heidfeld Sphin. <hi>P.</hi> 340.</p>
          </div>
          <div type="introduction">
-            <pb facs="tcp:000489_0003_0FA6732CE77A3B50"/>
+            <pb facs="unknown:000489_0003_0FA6732CE77A3B50"/>
             <head>THE Introduction</head>
             <div n="1" type="section">
                <head>SECT. I.</head>
@@ -186,7 +186,7 @@
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> expect, something of a more than common Import
-<pb facs="tcp:000489_0004_0FA6732D9DFBDB88"/>
+<pb facs="unknown:000489_0004_0FA6732D9DFBDB88"/>
 in them; and accordingly falling upon the Medi<g ref="char:EOLhyphen"/>tation of them, he found (I suppose) no part of his Ministry more <hi>satisfactory</hi> to himself, or <hi>Savoury</hi> to others, than what he <hi>there</hi> Employ'd. It was not upon any Apprehensions which I have yet seen cause to change<g ref="char:punc">▪</g> that I did my self, divers months ago, single <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ut the <hi>Types</hi> for one of my Two or Three or Four <hi>Weekly Sermons</hi> ordina<g ref="char:EOLhyphen"/>rily to be taken up withal; but having on <hi>Lords</hi>-Dayes in the Afternoons, discoursed more than a few Times thereupon, I find them like the Waters in <hi>Ezekiels</hi> Vision, Growing and Rising still, the further we wade into them. I am convinced that the gracious <hi>Valerius Herbe<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -213,7 +213,7 @@ in them; and accordingly falling upon the Medi<g ref="char:EOLhyphen"/>tation of
                   <g ref="char:punc">▪</g> published among us, owe so much of the <hi>Light</hi> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>
-                  <pb facs="tcp:000489_0005_0FA6732EE4A7CA00"/>
+                  <pb facs="unknown:000489_0005_0FA6732EE4A7CA00"/>
 enjoy, that <hi>His</hi> desire alone ought to have been gra<g ref="char:EOLhyphen"/>tify'd, though there had been no more; <hi>These,</hi> be<g ref="char:EOLhyphen"/>fore the week was out<g ref="char:punc">▪</g> sent me their Desires that I would give them a Copy of the Sermon<g ref="char:punc">▪</g> which I <hi>now</hi> entertain them with: Imploring the God of Heaven, That His <hi>Truths</hi> may have a due Impre<g ref="char:EOLhyphen"/>ssion upon them and their Families; that they may never <hi>make Shipwrack of the Faith;</hi> but, that they may for ever have a Room in the <hi>Ark</hi> of the Lord Jesus. It should be the care of every <hi>Pastor,</hi> to lay <hi>Truth</hi> as much as he can in the <hi>way</hi> of his People; and when we have an op<g ref="char:EOLhyphen"/>portunity to <hi>PRINT</hi> as well as to <hi>Preach,</hi> it is an increase of our <hi>Talents,</hi> to be humbly Received and Improved. Let none blame it, that so many <hi>Books</hi> come abroad continually; for <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s <hi>Austin</hi> long since wished, That by <hi>many Books</hi> the same <hi>Truth,</hi> not in the same <hi>Style,</hi> might arrive to the minds of <hi>many men;</hi> so 'tis as reasonable for <hi>Husbandmen</hi> to complain of too much <hi>Corn,</hi> as for <hi>Christians</hi> to complain of too many <hi>Books,</hi> which may bring the <hi>Food</hi> of <hi>Truth</hi> unto them; the main thing <hi>Amiss</hi> is, that <hi>my</hi> Homely Compo<g ref="char:EOLhyphen"/>sures trouble the <hi>Press,</hi> while there are so many more Elaborate, Judicious, Useful Ones, of my <hi>Fathers</hi> and <hi>Brethren,</hi> throughout this Countrey, that are <hi>suppressed</hi> by a <hi>modesty</hi> as large as the <hi>measure</hi> under which men should not put a <hi>lighted Candle</hi>: But it will often happen so<g ref="char:punc">▪</g> That <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -230,13 +230,14 @@ enjoy, that <hi>His</hi> desire alone ought to have been gra<g ref="char:EOLhyph
                   </gap>t the <hi>Ark</hi> of God.</p>
             </div>
             <div n="3" type="section">
-               <pb facs="tcp:000489_0006_0FA6733144427058" rendition="simple:additions"/>
+               <pb facs="unknown:000489_0006_0FA6733144427058"
+                   rendition="simple:additions"/>
                <head>
                   <hi>SECT.</hi> III.</head>
                <p>As the <hi>greatest Changes</hi> in the World have had a Rise from <hi>Engines</hi> that seem<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d no less <hi>Trivial</hi> than <hi>Casual: Printing</hi> in<g ref="char:EOLhyphen"/>vented by a <hi>Souldier, Powder</hi> invented by a <hi>Scholar,</hi> and the <hi>Load-stone,</hi> that common and almost contemptible Stone, found out (I know not how) in these latter Ages, have in a manner turn'd the World upside down, and inverted all the affairs of it; So the <hi>Great God who formed all things,</hi> has the Interest of His Church, lying at the bot<g ref="char:EOLhyphen"/>tom of all these Mutations. Tis from the encouragement of the <hi>Load-stone</hi> that we have our <hi>Shipping,</hi> and by the advantage of our <hi>Shipping</hi> it is that the <hi>Gospel</hi> is now arrived unto these <hi>Ends of the Earth.</hi> The <hi>Indians</hi> which this Land was once filled with, use to pay no little Respect unto the <hi>Crow,</hi> because they report that by this Bird the first <hi>Corn</hi> that ever they had was brought unto them; though now the <hi>Crow</hi> be among the greatest plunderers of their Fields. There is as much cause for <hi>us</hi> to bestow some great Regards upon a <hi>Ship</hi>; for by a <hi>Ship</hi>
-                  <pb facs="tcp:000489_0007_0FA6733164EA3DB8"/>
+                  <pb facs="unknown:000489_0007_0FA6733164EA3DB8"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> is that the <hi>Bread of Life</hi> is brought over<g ref="char:punc">▪</g> 
@@ -302,7 +303,7 @@ enjoy, that <hi>His</hi> desire alone ought to have been gra<g ref="char:EOLhyph
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ed unto <hi>America</hi>; though at that very point
-<pb facs="tcp:000489_0008_0FA6733233ED55C0"/>
+<pb facs="unknown:000489_0008_0FA6733233ED55C0"/>
 of Time when t'other <hi>Hemisphere</hi> was drown'd, there seems to have been a Failure of the Waters here; and now the ARK is al<g ref="char:EOLhyphen"/>so arrived hither, with Invitations unto us, to secure our own Eternal Salvation, by a Lodg<g ref="char:EOLhyphen"/>ing in the <hi>Antitype</hi> thereof. They that have written (as <hi>Laet</hi> and <hi>Le<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ius</hi>) concerning the Original of the <hi>Americans,</hi> do inform us, that they had some knowledge of the <hi>Old Flood</hi> before any <hi>Europeans</hi> gave a visit unto them yea, and of the <hi>Last Fire</hi> too, if <hi>Acosta</hi> deceiv<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -336,7 +337,7 @@ of Time when t'other <hi>Hemisphere</hi> was drown'd, there seems to have been a
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb facs="tcp:000489_0009_0FA67332DE430E18"/>
+                  <pb facs="unknown:000489_0009_0FA67332DE430E18"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n the same A<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -377,7 +378,7 @@ of Time when t'other <hi>Hemisphere</hi> was drown'd, there seems to have been a
                      <desc>•</desc>
                   </gap>rove the <hi>Power of God unto your Salvation</hi>!</p>
                <p>My Wishes for you are, <hi>That Goodness and Mercy may follow you all the Days of your Lives, and that you may dwell in the</hi> Ark <hi>of the Lord, unto Length of Days.</hi> That <hi>None</hi> of you may be a <hi>Cham</hi> about the <hi>Ark,</hi> but that <hi>All</hi> of you may be bound up in the <hi>Bundle of Life.</hi> Have I found any thing in <hi>Cham,</hi> to Deprecate on your behalf? I have so in <hi>Noah</hi> too, in good old <hi>Noah</hi> himself. You know what <hi>Sin</hi> it
-<pb facs="tcp:000489_0010_0FA67333A54A0540"/>
+<pb facs="unknown:000489_0010_0FA67333A54A0540"/>
 was that <hi>Noah</hi> was overtaken with. One o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> the <hi>Ethnic Names,</hi> by which <hi>Noah</hi> was distin<g ref="char:EOLhyphen"/>guished, was that of <hi>Saturn</hi>; whom the Anci<g ref="char:EOLhyphen"/>ent Pagans made the Praesident of <hi>Drunkenness</hi>
@@ -389,7 +390,7 @@ was that <hi>Noah</hi> was overtaken with. One o<gap reason="illegible" resp="#P
       </front>
       <body>
          <div type="sermon">
-            <pb n="1" facs="tcp:000489_0011_0FA6733472195528"/>
+            <pb n="1" facs="unknown:000489_0011_0FA6733472195528"/>
             <head>Work upon the ARK.</head>
             <epigraph>
                <q>
@@ -411,7 +412,7 @@ was that <hi>Noah</hi> was overtaken with. One o<gap reason="illegible" resp="#P
             </epigraph>
             <p>THe Wise Men that of old were Travelling and Enquiring af<g ref="char:EOLhyphen"/>ter the Lord Jesus Christ, found Him a Babe in <hi>Swadling Cloaths</hi> and paid Respect unto Him, unto the <hi>King of the World</hi>
                <g ref="char:punc">▪</g> As many of us
-<pb n="2" facs="tcp:000489_0012_0FA67335185EB948"/>
+<pb n="2" facs="unknown:000489_0012_0FA67335185EB948"/>
 as <hi>are,</hi> and God forbid that any should <hi>not be</hi> Inquisitive after the <hi>Holy Child Jesus,</hi> may be hold Him in the <hi>Swadling Cloaths,</hi> which th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
@@ -446,7 +447,7 @@ as <hi>are,</hi> and God forbid that any should <hi>not be</hi> Inquisitive afte
             <p>It was the Observation of the Apostle, con<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>cerning the memorable Events which in the
-<pb n="3" facs="tcp:000489_0013_0FA67335D8832D50"/>
+<pb n="3" facs="unknown:000489_0013_0FA67335D8832D50"/>
 By-past Ages had happened in the Church of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>od, 1 Cor. 10.11. <hi>All these things happened <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -515,7 +516,7 @@ By-past Ages had happened in the Church of <gap reason="illegible" resp="#PDCC" 
                   <desc>〈◊〉</desc>
                </gap> 
                <hi>Ark,</hi> so <hi>Baptism</hi> does those that are in the
-<pb n="4" facs="tcp:000489_0014_0FA673389F849A80"/>
+<pb n="4" facs="unknown:000489_0014_0FA673389F849A80"/>
                <hi>Church</hi> towards Heaven; there is a blesse<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Help of <hi>Salvation</hi> in it.</p>
@@ -539,7 +540,7 @@ By-past Ages had happened in the Church of <gap reason="illegible" resp="#PDCC" 
                </gap> does accustome himself to such <hi>Reflections.</hi>
             </p>
             <p>
-               <pb n="5" facs="tcp:000489_0015_0FA6733B0F151198"/>Well, that famous ARK which is counted <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="5" facs="unknown:000489_0015_0FA6733B0F151198"/>Well, that famous ARK which is counted <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
                <hi>first</hi> SHIP that ever was, will afford then, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -599,7 +600,7 @@ By-past Ages had happened in the Church of <gap reason="illegible" resp="#PDCC" 
                   </gap>, which <hi>Noah</hi> was the maker of: and as <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> was with them, a man of <hi>two Faces,</hi> it
-<pb n="6" facs="tcp:000489_0016_0FA6733B1DA9AC78"/>
+<pb n="6" facs="unknown:000489_0016_0FA6733B1DA9AC78"/>
 intimated that <hi>Noah</hi> had the double prospe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> of the <hi>Old</hi> and the <hi>New World</hi> before him. <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -662,7 +663,8 @@ intimated that <hi>Noah</hi> had the double prospe<gap reason="illegible" resp="
                <p>Let not Us then introduce any thing <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb facs="tcp:000489_0017_0FA6733BDEAB7890" rendition="simple:additions"/>
+                  <pb facs="unknown:000489_0017_0FA6733BDEAB7890"
+                      rendition="simple:additions"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>he <hi>Church</hi> of God, of which we have no<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -732,7 +734,7 @@ intimated that <hi>Noah</hi> had the double prospe<gap reason="illegible" resp="
                      </gap>rated, an unconverted man; and <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> shall we then bring such an one unto the Ta<g ref="char:EOLhyphen"/>ble
-<pb n="8" facs="tcp:000489_0018_0FA6733D12246CA8"/>
+<pb n="8" facs="unknown:000489_0018_0FA6733D12246CA8"/>
 of the Lord?</hi> No, they will be a sort o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> 
@@ -741,7 +743,7 @@ of the Lord?</hi> No, they will be a sort o<gap reason="illegible" resp="#PDCC" 
                      </gap>is Ecclesiae paci consulere</hi>; To follow the Dictates of <hi>Worldly Wisdom</hi> for the main<g ref="char:EOLhyphen"/>taining of it. There are <hi>uninstituted Cae<g ref="char:EOLhyphen"/>remonies</hi> brought into the House of God; the bold Inventors whereof, resemble them to <hi>Pins</hi> in the Building; and that of <hi>Pins,</hi> is a Name <hi>great</hi> enough truly to be be<g ref="char:EOLhyphen"/>stowed upon them But I assure you, They are <hi>Pins</hi> that produce <hi>Cracks</hi> and <hi>Leaks</hi> where they come; they are dangerous to the <hi>Ark</hi> of God.</p>
             </div>
             <div n="2" type="observation">
-               <pb n="9" facs="tcp:000489_0019_0FA6733F85F329B0"/>
+               <pb n="9" facs="unknown:000489_0019_0FA6733F85F329B0"/>
                <head>
                   <hi>OBSERVATION.</hi> II.</head>
                <p>The Lord Jesus Christ <hi>Himself,</hi> is most <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -795,11 +797,11 @@ of the Lord?</hi> No, they will be a sort o<gap reason="illegible" resp="#PDCC" 
             <div type="application">
                <head>APPLICATION.</head>
                <p>Be not then Discouraged at the <hi>Dan<g ref="char:EOLhyphen"/>gers,</hi>
-                  <pb n="10" facs="tcp:000489_0020_0FA6733FA0874158"/>
+                  <pb n="10" facs="unknown:000489_0020_0FA6733FA0874158"/>
 the <hi>Tempests,</hi> which the <hi>Church</hi> of <hi>God</hi> may meet withal. 'Tis the Name of the <hi>Church,</hi> in Isa. 54.11. <hi>O thou Tossed with Tempests!</hi> and so it may have this Appellati<g ref="char:EOLhyphen"/>on, <hi>O thou Threatned with Dangers!</hi> But be of good chear. The Lord Jesus Christ Himself is exposed unto all the perils which bear a terrible Aspect on the <hi>Church</hi> of <hi>God.</hi> Hence the Great Reformer, in very per<g ref="char:EOLhyphen"/>plexing Distresses would so comfort himself <hi>Si nos Ruimus, Ruit &amp; Christus</hi>; Christ Him<g ref="char:EOLhyphen"/>self will <hi>Fare</hi> like us, and <hi>Fall</hi> with us: And this may be our comfort, <hi>The Lord Je<g ref="char:EOLhyphen"/>sus Christ Himself, must founder in the Quick<g ref="char:EOLhyphen"/>sands of that Corruption, or Oppression, in which the whole Church of God shall be ever swallowed up.</hi> This was the Triumph of the Church, in Psal 46.3, 5. <hi>We will not fear, though the Waters Roar, and be Troubled</hi> Why so? It follows, <hi>God is in the midst of Her!</hi> Let ne<g ref="char:EOLhyphen"/>ver such Roaring, Dashing, Horrible Hu<g ref="char:EOLhyphen"/>ricanes arise, the <hi>Church</hi> cannot be cast a<g ref="char:EOLhyphen"/>way; the Reason is, <hi>God is in the midst of her.</hi> When <hi>Caesar</hi> was in a little Boat at Sea, hattered and battered by a violent Storm, which made the Marriners afraid, he merrily said unto them, <hi>Come, Courage, brave Hearts, you carry</hi> Caesar, <hi>and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>nte<g ref="char:EOLhyphen"/>rests of</hi> Caesar <hi>here! Why,</hi> a better Fraighted
-<pb n="11" facs="tcp:000489_0021_0FA67340623A1D90"/>
+<pb n="11" facs="unknown:000489_0021_0FA67340623A1D90"/>
 Vessel is the <hi>Church</hi> of God: It has our <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>lessed <hi>Noah</hi> aboard; <hi>It carries</hi> Jesus, and <hi>
@@ -857,10 +859,10 @@ Vessel is the <hi>Church</hi> of God: It has our <gap reason="illegible" resp="#
                   </gap>our selves. We have a Narrative, in Mat. 4.37, 38, 39. That once <hi>arose a great <gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>orm of Wind, and the Waves beat into the
-<pb n="12" facs="tcp:000489_0022_0FA673411C905CD8"/>
+<pb n="12" facs="unknown:000489_0022_0FA673411C905CD8"/>
 Ship; and He arose and rebuked the Wind, and said unto the Sea,</hi> peace, be still; <hi>and the Wind ceased, and there was a great Calm.</hi> Such a Friend, such a Guard at hand, you will have, if you have the <hi>Presence</hi> of the Lord Jesus with you. Now, to obtain <hi>That,</hi> Let your <hi>Prayers,</hi> be together every Day made unto God in <hi>Him</hi>; therewithal joyn<g ref="char:EOLhyphen"/>ing your <hi>Cares,</hi> that no <hi>Vice</hi> be any more allowed there, than in the purest <hi>Church</hi> in the World. If it was Enjoyned on Masters of <hi>Houses</hi> to <hi>Pray without ceasing:</hi> how much more ought Masters of <hi>Vessels</hi> to do the same? Let me say, <hi>Masters,</hi> your <hi>Companies</hi> are your <hi>Families</hi>; you ought every day to see <hi>Prayer</hi> attended with them. How can you Neglect <hi>Prayer</hi> in a <hi>Calm,</hi> without expect<g ref="char:EOLhyphen"/>ing that when you Employ <hi>Prayer</hi> in a <hi>Storm,</hi> the Lord Jesus will be deaf unto your Crier, and Reply upon them, <hi>I know you not</hi>? 'Twill be too late then to begin your <hi>Prayers; Quid Juvat Errores mersa jam puppe fateri?</hi> It hath been said, <hi>Let him that would Learn to Pray, go to Sea</hi>; Alas, that so many persons who <hi>go to Sea,</hi> are so impiously <hi>Prayerless</hi> there! and so like the Marriners whom the Philosopher once with a sharp scoff, did advise to forbear their <hi>Prayers!</hi> It was a seasonable Alarum once
 <pb n="13"
-                      facs="tcp:000489_0023_0FA67341DEA66F80"
+                      facs="unknown:000489_0023_0FA67341DEA66F80"
                       rendition="simple:additions"/>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -917,7 +919,7 @@ Ship; and He arose and rebuked the Wind, and said unto the Sea,</hi> peace, be s
                   </gap> in comme<g ref="char:EOLhyphen"/>moration of the ARK, no doubt, where all Mankind was once <hi>coffin'd</hi> up. Now the <hi>Cypress</hi> Wood was <hi>good Stuff:</hi> it would <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>old and keep, and last sound, and breed no
-<pb n="14" facs="tcp:000489_0024_0FA67342B7C65DB8"/>
+<pb n="14" facs="unknown:000489_0024_0FA67342B7C65DB8"/>
                   <hi>Worms,</hi> for a most incredible while<g ref="char:punc">▪</g> 
                   <hi>Per<g ref="char:EOLhyphen"/>petual,</hi> was the Epithite which the ancient Poets put upon it. Hence <hi>Epiphanius</hi> af<g ref="char:EOLhyphen"/>firms, that in his dayes, which was near three thousand years after the Flood, there were parts of the ARK still to be seen<g ref="char:punc">▪</g> This is an Emblem of the <hi>Soundness</hi> which all <hi>Church-Members</hi> ought to be studious of: a Prayer fitted for their Lips<g ref="char:punc">▪</g> is that in <hi>Psal.</hi> 119.80. Lord, <hi>Make my heart sound in thy Statutes.</hi>
                </p>
@@ -925,7 +927,7 @@ Ship; and He arose and rebuked the Wind, and said unto the Sea,</hi> peace, be s
             <div type="application">
                <head>APPLICATION.</head>
                <p>Let those who desire to joyn unto the <hi>Church</hi> of God, then <hi>Examine</hi> themselves. There are <hi>some,</hi> and it procures the anger of the great God, that there are <hi>no more,</hi> seek<g ref="char:EOLhyphen"/>ing after <hi>Church fellowship</hi> among us. To you in a peculiar manner belongs that coun<g ref="char:EOLhyphen"/>sel in 1 <hi>Cor.</hi> 11.28. <hi>Let a man Examine him<g ref="char:EOLhyphen"/>self, and so let him</hi> Come. O make this enquiry into your own estate, <hi>Am I good Stuff or no?</hi> ask and see, whether you have a <hi>Good Grain,</hi> or a <hi>True Grace</hi>? whether you are <hi>sound at heart</hi>? whether you have the <hi>Root of the matter</hi> in you? Yea, and more than this, is needful to be enquired; it
-<pb facs="tcp:000489_0025_0FA67347CAD9CD30"/>
+<pb facs="unknown:000489_0025_0FA67347CAD9CD30"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hould be try'd, whether you are well <hi>He<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -989,13 +991,13 @@ Ship; and He arose and rebuked the Wind, and said unto the Sea,</hi> peace, be s
                </p>
             </div>
             <div n="4" type="observation">
-               <pb facs="tcp:000489_0026_0FA6734A362AF180"/>
+               <pb facs="unknown:000489_0026_0FA6734A362AF180"/>
                <head>OBSERVATION. IV.</head>
                <p>Many persons instrumental about Buil<g ref="char:EOLhyphen"/>ding the <hi>Church</hi> of God, are yet Lost and Damned for ever. There were many <hi>Car<g ref="char:EOLhyphen"/>penters</hi> no doubt, that wrought with <hi>Noah,</hi> upon the <hi>Ark,</hi> which yet were Drown'd a<g ref="char:EOLhyphen"/>mong those doleful Creatures, whose <hi>Foun<g ref="char:EOLhyphen"/>dation was overflown with a Flood.</hi> Even so, there are multitudes of persons, whose <hi>Ta<g ref="char:EOLhyphen"/>lents</hi> and <hi>Labours</hi> are Employ'd about <hi>Church Work,</hi> all their Days; and yet these very Sersons go down to the <hi>congregation</hi> of them that <hi>Roar under the Waters</hi> for ever. It is true, that the Ministry of a wicked <hi>Clergy-Man,</hi> is not so frequently and so certainly blessed by God, as the Ministry of a serious, Gracious, Heavenly Man, that can <hi>Pray</hi> as well as <hi>Preach.</hi> Usually they are the <hi>Wise,</hi> the <hi>Good,</hi> who <hi>Turn many to Righteous<g ref="char:EOLhyphen"/>ness.</hi> Nevertheless God may improve the Ministry of a <hi>Judas</hi> and a <hi>Demas,</hi> for the advantage of His Church. 'Tis not the <hi>Instrument,</hi> but the <hi>Appointment,</hi> that gives Efficacy to the <hi>Ordinance.</hi> We are told in 1 Cor· 9.27. <hi>A man that has Preached to o<g ref="char:EOLhyphen"/>thers,</hi> may himself <hi>be cast away.</hi>
                </p>
             </div>
             <div type="application">
-               <pb n="17" facs="tcp:000489_0027_0FA6734AF8B2C158"/>
+               <pb n="17" facs="unknown:000489_0027_0FA6734AF8B2C158"/>
                <head>APPLICATION.</head>
                <p>How much ought all <hi>Church-Officers</hi> then <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -1052,7 +1054,7 @@ Ship; and He arose and rebuked the Wind, and said unto the Sea,</hi> peace, be s
                      </gap>hem,</hi> I <hi>never knew you; Depart from me!</hi> Thus in the Dreadful Day of God, we may <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ome to plead, <hi>Lord, Had not I the Office of
-<pb n="18" facs="tcp:000489_0028_0FA6734BA0654DF0"/>
+<pb n="18" facs="unknown:000489_0028_0FA6734BA0654DF0"/>
 Serving thy Table, and Keeping thy Treasure in thy House?</hi> We may come to plead, <hi>Lord Did not I go before thy People in singing of thy Praises</hi>? Yea, we may come to plead, <hi>Lord was not I a Pastor, and a Preacher to a Flock <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> thine</hi>? Yet may he pass that Ireful Direfu<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1067,7 +1069,7 @@ Serving thy Table, and Keeping thy Treasure in thy House?</hi> We may come to pl
             <div n="5" type="observation">
                <head>OBSERVATION V.</head>
                <p>The Lord Jesus Christ is the <hi>Door,</hi> by which we are to pass into the Church of God. It was said in Gen. 6.16. <hi>And the</hi> Door <hi>of the Ark shalt thou set in the side there<g ref="char:EOLhyphen"/>of.</hi> There was a <hi>Door</hi> by which the <hi>Ark</hi> was entered; which <hi>Door,</hi> if it were in the lower part of the <hi>Ark,</hi> and not by <hi>Scaffolds</hi> ascended unto, required an exquisite care<g ref="char:EOLhyphen"/>fulness in the close and fast shutting of it; and it seems Angelical <hi>Assistance,</hi> was af<g ref="char:EOLhyphen"/>forded thereunto: for we read, <hi>God shut it.</hi> Well, The <hi>Church</hi> of God has a <hi>Door</hi> too; but what kind of one? Our Lord Jesus hath said unto us, in John 17.9. <hi>I am the Door, by me if any man enter in, he shall
-<pb n="19" facs="tcp:000489_0029_0FA6734C5E7ADB40"/>
+<pb n="19" facs="unknown:000489_0029_0FA6734C5E7ADB40"/>
                      <gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>saved.</hi> The Lord Jesus must be profes<g ref="char:EOLhyphen"/>
@@ -1133,7 +1135,7 @@ Serving thy Table, and Keeping thy Treasure in thy House?</hi> We may come to pl
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>othing enters into it that Defiles.</hi> 'Tis by
-<pb n="20" facs="tcp:000489_0030_0FA6734D1F76A448"/>
+<pb n="20" facs="unknown:000489_0030_0FA6734D1F76A448"/>
 having of <hi>Christ Jesus formed</hi> in us, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> we get into this Holy Body; it is, <hi>The Bo<g ref="char:EOLhyphen"/>dy of Christ,</hi> and our Union with Him, by Faith, brings us to belong unto it.</p>
@@ -1186,7 +1188,7 @@ having of <hi>Christ Jesus formed</hi> in us, tha<gap reason="illegible" resp="#
                   </gap> Roof, which by the Declivity of a <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="21" facs="tcp:000489_0031_0FA6734DE314CDF0"/>
+                  <pb n="21" facs="unknown:000489_0031_0FA6734DE314CDF0"/>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>rried off the <hi>Rain</hi> that fell upon it. It <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1253,7 +1255,7 @@ having of <hi>Christ Jesus formed</hi> in us, tha<gap reason="illegible" resp="#
                </p>
             </div>
             <div type="application">
-               <pb n="22" facs="tcp:000489_0032_0FA673505446BC20"/>
+               <pb n="22" facs="unknown:000489_0032_0FA673505446BC20"/>
                <head>APPLICATION.</head>
                <p>For shame then, let none of us that are <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -1279,7 +1281,7 @@ having of <hi>Christ Jesus formed</hi> in us, tha<gap reason="illegible" resp="#
                      </gap> all be taught.</hi> It was said in 1 Cor. 15.34. <hi>Some have not the knowledg of God,</hi> I <hi>speak this to your shame.</hi> What! for them in the <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>urch</hi> to want the <hi>knowledg of God</hi>! that is a burning <hi>shame</hi> indeed! It will be a <hi>shameful</hi>
-                  <pb n="23" facs="tcp:000489_0033_0FA6735100AA3A20"/>
+                  <pb n="23" facs="unknown:000489_0033_0FA6735100AA3A20"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hing, if any of Us have not the <hi>Knowledge</hi> 
@@ -1346,7 +1348,7 @@ having of <hi>Christ Jesus formed</hi> in us, tha<gap reason="illegible" resp="#
                   </gap> of Believers, which Assemble together <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> one place, with Engagements and En<g ref="char:EOLhyphen"/>deavours
-<pb n="24" facs="tcp:000489_0034_0FA67351A95FD7B8"/>
+<pb n="24" facs="unknown:000489_0034_0FA67351A95FD7B8"/>
 to carry on, <hi>The Worship of the Gos<g ref="char:EOLhyphen"/>pel. I</hi> do not know, that the Word of God ever mentioned any <hi>particular Church</hi> of another <hi>Species</hi> or <hi>Dimension.</hi>
                </p>
                <p>Such a <hi>Church</hi> has in it the whole <hi>Es<g ref="char:EOLhyphen"/>sence</hi> of the Church, and it is it self a com<g ref="char:EOLhyphen"/>pleat <hi>Ark,</hi> before the Lord But all these <hi>Churches</hi> being together considered, the Result will be <hi>one Church Catholick</hi> in the World.</p>
@@ -1381,7 +1383,7 @@ to carry on, <hi>The Worship of the Gos<g ref="char:EOLhyphen"/>pel. I</hi> do n
                      </gap> they go to any other.</hi> 'Tis a <hi>Loving</hi> practice<g ref="char:punc">▪</g> But our <hi>Love</hi> must extend it self to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
-                  <pb n="25" facs="tcp:000489_0035_0FA67353785E34D0"/>
+                  <pb n="25" facs="unknown:000489_0035_0FA67353785E34D0"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hole <hi>Houshold of Faith</hi>
@@ -1448,7 +1450,7 @@ to carry on, <hi>The Worship of the Gos<g ref="char:EOLhyphen"/>pel. I</hi> do n
                   </gap> the Lord.</p>
             </div>
             <div type="application">
-               <pb n="26" facs="tcp:000489_0036_0FA67353D7B57158"/>
+               <pb n="26" facs="unknown:000489_0036_0FA67353D7B57158"/>
                <head>APPLICATION</head>
                <p>Let not a Room in the <hi>Lower Story</hi> of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1514,7 +1516,7 @@ to carry on, <hi>The Worship of the Gos<g ref="char:EOLhyphen"/>pel. I</hi> do n
                   </gap> Gen. 6.19, 20. Some of every <hi>Beast</hi> &amp; some <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="27" facs="tcp:000489_0037_0FA67358F641F808"/>
+                  <pb n="27" facs="unknown:000489_0037_0FA67358F641F808"/>
                   <hi>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1576,7 +1578,7 @@ to carry on, <hi>The Worship of the Gos<g ref="char:EOLhyphen"/>pel. I</hi> do n
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ithin the Walls of it, if we don't abate
-<pb n="28" facs="tcp:000489_0038_0FA6735B6733D7C8"/>
+<pb n="28" facs="unknown:000489_0038_0FA6735B6733D7C8"/>
 what was taken away in the <hi>Sloping</hi> of the Roof. Suppose the <hi>cubits</hi> to be the <hi>Ho<g ref="char:EOLhyphen"/>ly,</hi> which were <hi>Seven</hi> Hands Breadth, where as the <hi>Vulgar</hi> was but <hi>six,</hi> and you behold here a Vessel which might carry more than <hi>Forty Two Thousand Tuns,</hi> allowing <hi>two thou<g ref="char:EOLhyphen"/>sand Weight</hi> unto the Tun.</p>
                   <p>Nor do you forget, that the <hi>Ark</hi> had <hi>Three Stories</hi> in it; each of them <hi>Fifte<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
@@ -1613,7 +1615,7 @@ what was taken away in the <hi>Sloping</hi> of the Roof. Suppose the <hi>cubits<
                      <g ref="char:punc">▪</g> yet known unto us, and a great <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="29" facs="tcp:000489_0039_0FA6735C2ED22908"/>
+                     <pb n="29" facs="unknown:000489_0039_0FA6735C2ED22908"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Room to spare. They that reckon <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1680,7 +1682,7 @@ what was taken away in the <hi>Sloping</hi> of the Roof. Suppose the <hi>cubits<
                      </gap>en <hi>Wolves</hi>; tho' it be question'd whether <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ny Bruits before the <hi>Flood</hi> (or at least with<g ref="char:EOLhyphen"/>in
-<pb n="30" facs="tcp:000489_0040_0FA6735CDA2177E8"/>
+<pb n="30" facs="unknown:000489_0040_0FA6735CDA2177E8"/>
 the <hi>Ark</hi>) were carnivorous at all. Now you may lay in, at the rate of forty weight of Provender a Day, for every <hi>Ox,</hi> and a whole <hi>Sheep</hi> a Day for every <hi>Wolf,</hi> besides a sufficient quantity of Provision for all that fed on other things; and yet by computa<g ref="char:EOLhyphen"/>tation, I find the <hi>Ark</hi> affords room enough and enough to hold far more tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> thus would serve the turn, se<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1697,7 +1699,7 @@ the <hi>Ark</hi>) were carnivorous at all. Now you may lay in, at the rate of fo
                </div>
             </div>
             <div type="application">
-               <pb n="31" facs="tcp:000489_0041_0FA6735DAEFF7E80"/>
+               <pb n="31" facs="unknown:000489_0041_0FA6735DAEFF7E80"/>
                <head>APPLICATION.</head>
                <p>But let all <hi>Church Members</hi> among us, look to it, that they be not wild Ravenous or Venemous creatures in the ARK of God. It seems probable, that the fiercest Crea<g ref="char:EOLhyphen"/>tures were miraculously so Cicurated at their Entrance into the <hi>Ark,</hi> that they ex<g ref="char:EOLhyphen"/>pressed no Antipathies or Dissensions there: 'Tis credibly Reported, That <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -1705,7 +1707,7 @@ the <hi>Ark</hi>) were carnivorous at all. Now you may lay in, at the rate of fo
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>o wear, What is it? It is that in Joh. 10.14. <hi>My Sheep.</hi> Or it is that in Cant. 6.9. <hi>My Dove.</hi> I beseech you, Let us not have the Qualities of more Noxious Creatures in us. O let us not be Crafty, like the <hi>Fox</hi>; nor cruel as the <hi>Bear,</hi> nor bloody as the <hi>Ty<g ref="char:EOLhyphen"/>ger.</hi> Let us not be <hi>Blind</hi> like the <hi>Bat,</hi> or
-<pb n="32" facs="tcp:000489_0042_0FA6735E6A16DF30"/>
+<pb n="32" facs="unknown:000489_0042_0FA6735E6A16DF30"/>
                   <hi>Owl</hi>; nor let us be Revengful, as the <hi>Crane,</hi> and let us not like the <hi>Serpent,</hi> sting those that are about us. The <hi>Ark</hi> of the Lord Jesus will not be opened unto us, until we have put off those <hi>cursed</hi> Qualities.</p>
             </div>
             <div n="10" type="observation">
@@ -1713,7 +1715,7 @@ the <hi>Ark</hi>) were carnivorous at all. Now you may lay in, at the rate of fo
                <p>Our <hi>Salvation</hi> depends upon our getting into the <hi>Church</hi> of God. They that were in the <hi>Ark</hi> were in a safe and a brave Con<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>dition, when Desolation overwhelmed the whole World besides; <hi>there</hi> sat good old <hi>Noah, Medjis Tranquillus in undis.</hi> But what became of them that were not then sheltered in the <hi>Ark?</hi> Alas, they fell into the <hi>Perdition of Ungodly Men.</hi> Of such concernment it is, to get into the <hi>Church</hi> of God! When the <hi>Jews</hi> were the Church, our Lord said in Joh. 4.22. <hi>Salvation is of the Jews.</hi> And it is a <hi>faithful Saying</hi> still, that <hi>Extra Ecclesiam non est Salus.</hi> If a man be not a Member of the <hi>Mystical Church,</hi> he is excluded from all Hope of <hi>Salvation</hi> for ever; he must for ever Ly and cry, and be abhorred among <hi>them that are without.</hi> And whoever is a Member of the <hi>Mystical Church,</hi> that man will be desirous and stu<g ref="char:EOLhyphen"/>dious
-<pb facs="tcp:000489_0043_0FA6735F2F620140"/>
+<pb facs="unknown:000489_0043_0FA6735F2F620140"/>
 to join himself unto one that is <hi>Visible</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1724,14 +1726,14 @@ to join himself unto one that is <hi>Visible</hi>
                <head>APPLICATION.</head>
                <p>I pray, Why then do so many of you <hi>Stand</hi> without, and <hi>stay</hi> away, from the <hi>Ark</hi> of the Lord Jesus? It was a smart Expostu<g ref="char:EOLhyphen"/>lation of the Apostle, in 1 Cor. 11.22<g ref="char:punc">▪</g> 
                   <hi>Despise ye the Church of God?</hi> O 'tis a fear<g ref="char:EOLhyphen"/>ful Impiety to <hi>despise</hi> a place in the <hi>Church</hi> of the Lord Jesus Christ; and yet this is to be charged upon multitudes of <hi>you,</hi> that every month turn your Backs upon the <hi>Table</hi> of the Lord. Ye Inconsiderate peo<g ref="char:EOLhyphen"/>ple! Will you make your Minister com<g ref="char:EOLhyphen"/>plain to the God of Heaven of you? <hi>O Lord I mourn.</hi> But shall I indeed go and say before the Great God, <hi>Lord, I have
-<pb n="34" facs="tcp:000489_0044_0FA67361C612FE20"/>
+<pb n="34" facs="unknown:000489_0044_0FA67361C612FE20"/>
 spent some Hundreds of Sermons, to bespeak the Hearts of these people for thee; and yet they have never so Repented of sin, they have never so Believed on Christ, they have never so Cove<g ref="char:EOLhyphen"/>nanted with thy self, as that they dare come unto thy Table in the full communion of any Church of thine.</hi> Alas, what a complaint were this? But I beseech you to give no occasion for it.</p>
                <p>Consider 1. If you are not continually <hi>Preparing</hi> for, and perpetually <hi>Desiring</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> a Room in the <hi>Ark</hi> of the Lord Jesus, there is no likelihood of <hi>Everlasting Salvation</hi> for you. Many a good man is <hi>afraid</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> coming into <hi>Church-communion</hi>; but the man who sincerely and earnestly takes pains to get himself ready for it, it may be hop'd will soon overcome those <hi>Fears.</hi> If you can go on contentedly, without any comfortable and well-grounded <hi>perswasions</hi> of your Interest in the Favour of God; if you can go on quietly, leaving the matters between God and your own Souls at <hi>perad<g ref="char:EOLhyphen"/>ventures,</hi> I am to tell you, <hi>That you are yet in the gall of Bitterness, and in the Bond of iniquity.</hi> Have you entred into <hi>Covenant</hi> with God, or no? If you have done it se<g ref="char:EOLhyphen"/>cretly, then you may come and do it <hi>openly,</hi> If you have <hi>not,</hi> then your <hi>Salvation</hi> lies at
-<pb n="35" facs="tcp:000489_0045_0FA673626C9573C0"/>
+<pb n="35" facs="unknown:000489_0045_0FA673626C9573C0"/>
 Stake; You may be horribly astonisht a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> the Hourly perils of your Immortal Souls, That man is not in a State of <hi>Salvation</hi> who may not say, as in Psal. 26.8. <hi>Lord, I have Loved the Habitation of thy House.</hi> But how can you <hi>Love</hi> it, if you <hi>Do Nothing</hi> to get into it?</p>
@@ -1739,7 +1741,7 @@ Stake; You may be horribly astonisht a<gap reason="illegible" resp="#PDCC" exten
                   <g ref="char:punc">▪</g> We read it spoken of some, in Psal. 106.15. <hi>God sent leanness into their Soul.</hi> Alas, a <hi>Lean Soul,</hi> a Lean Grace, a Lean Joy, is the Fruit of <hi>This</hi> Omission. You do but famish your own Souls, while you thus de<g ref="char:EOLhyphen"/>ny to yourselves the Helps of your <hi>Salvation.</hi> What can you Look for, but a Blast upon your unhappy Souls, while you practically say, <hi>There are Ordinances of Jesus Christ, which I can do well enough without?</hi>
                </p>
                <p>Consider 3. The <hi>Floods</hi> of Death, will shortly Roar and Roll upon you. It was once an Out-cry in Psal. 69.1, 2. <hi>O God,
-<pb n="36" facs="tcp:000489_0046_0FA67362DCC01798"/>
+<pb n="36" facs="unknown:000489_0046_0FA67362DCC01798"/>
 The waters come into my Soul, the Floods over<g ref="char:EOLhyphen"/>flow me.</hi> That, <hi>That</hi> will be your Cry in the Dying Hour, which you are now near unto; <hi>The Sorrows of Death</hi> (you'l say) <hi>compass me, and the Floods which terrify the Ungodly, make me afraid!</hi> But O what a sad thing, will it then be, to be found out of an <hi>Ark</hi>? I have seen and Heard, more than once, this bitter Anguish in Dying people, <hi>O that</hi> I <hi>had joyn'd my self unto some Church of the Lord Jesus! 'Tis</hi> a <hi>Load like a mountain of Lead upon me, that I kept out of the</hi> Ark <hi>so long. If God will spare me, that I may recover Strength before I go hence and be no more, the first thing I'll do, shall be to Reform the Omission, which I now Repent.</hi> But as God was near killing of <hi>Moses</hi> for o<g ref="char:EOLhyphen"/>mitting of a <hi>Sacrament</hi>; so 'tis possible, thy Omission may provoke Him to <hi>Kill</hi> thee without <hi>Pity,</hi> (because not without <hi>War<g ref="char:EOLhyphen"/>ning</hi>) When thou shalt pour out these Groans before Him.</p>
                <p>Consider of <hi>This,</hi> and make no Heedless Needless Delays in the matter.</p>
             </div>
@@ -1747,7 +1749,7 @@ The waters come into my Soul, the Floods over<g ref="char:EOLhyphen"/>flow me.</
                <head>OBSERVATION XI.</head>
                <p>'Tis an <hi>Ill Bird</hi> that goes from the <hi>Church</hi>
                   <pb n="37"
-                      facs="tcp:000489_0047_0FA673639BE75F20"
+                      facs="unknown:000489_0047_0FA673639BE75F20"
                       rendition="simple:additions"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1770,12 +1772,12 @@ The waters come into my Soul, the Floods over<g ref="char:EOLhyphen"/>flow me.</
                </p>
             </div>
             <div type="application">
-               <pb n="38" facs="tcp:000489_0048_0FA67364597EFA40"/>
+               <pb n="38" facs="unknown:000489_0048_0FA67364597EFA40"/>
                <head>APPLICATION.</head>
                <p>Tremble, <hi>Every Soul,</hi> Tremble at <hi>Aposta<g ref="char:EOLhyphen"/>cy</hi> from the Ways of God. You that have gone out from the <hi>Societies</hi> of them which together call'd upon God in Christ; you that instead of your old Entertainments in the House of God, are now Gormandising upon the <hi>Carrions</hi> of the world; O come back; do not play the <hi>Raven</hi> so. You show what you are, if you can so satisfie your selves. <hi>Ill Birds</hi> indeed! We shall say of you, <hi>They went out from us, because they were not of us.</hi> 'Tis the Complexion and Character belonging to the Church of <hi>Rome,</hi> in a peculiar manner. 'Tis a <hi>Raven</hi>: unless you will say, that the Bird which once made such a Disturbance in one of their Councils, afford a fitter Name for it. It has <hi>gone</hi> from our Glorious <hi>Noah,</hi> and never will Return unto Him. But let all <hi>Apostates</hi> take that Advice, in Isa. 60.9. <hi>Return to your Rest as DOVES to the Windows.</hi> O be those <hi>Doves,</hi> that cannot find a <hi>Rest</hi> for their Foot, any where but in the <hi>Church</hi> of the Living God.</p>
             </div>
             <div n="12" type="observation">
-               <pb n="39" facs="tcp:000489_0049_0FA673651C260248"/>
+               <pb n="39" facs="unknown:000489_0049_0FA673651C260248"/>
                <head>
                   <hi>OBSERVATION.</hi> XII.</head>
                <p>In the <hi>Church</hi> of God, a <hi>Sabbath</hi> will be kept Holy to the Lord. It is a Remarka<g ref="char:EOLhyphen"/>ble passage in Gen. 8.8, 10, 12. Noah <hi>sent forth a Dove; and he staid yet other Seven Days; and again he sent forth the Dove; and he staid yet other Seven Days, and sent forth the Dove.</hi> Why did <hi>Noah</hi> keep a period of <hi>Se<g ref="char:EOLhyphen"/>ven Days</hi> in this matter? Learned Men con<g ref="char:EOLhyphen"/>ceive that he had Respect unto a <hi>Sabbath</hi> in <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1805,7 +1807,7 @@ The waters come into my Soul, the Floods over<g ref="char:EOLhyphen"/>flow me.</
                      <desc>••••</desc>
                   </gap>nable to think,
 <pb n="40"
-                      facs="tcp:000489_0050_0FA67365D7374490"
+                      facs="unknown:000489_0050_0FA67365D7374490"
                       rendition="simple:additions"/>
 That the <hi>Patriarchs</hi>
                   <g ref="char:punc">▪</g> long before <hi>Israel</hi> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1827,7 +1829,7 @@ That the <hi>Patriarchs</hi>
                         <desc>〈◊〉</desc>
                      </gap>
                      <pb n="41"
-                         facs="tcp:000489_0051_0FA6736AF228A708"
+                         facs="unknown:000489_0051_0FA6736AF228A708"
                          rendition="simple:additions"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1857,7 +1859,7 @@ That the <hi>Patriarchs</hi>
                      </gap>ds Rest,</hi> so <hi>God</hi> has broken <hi>Theirs</hi>; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>stonishing plagues have made them
-<pb n="42" facs="tcp:000489_0052_0FA6736D6ECD79D0"/>
+<pb n="42" facs="unknown:000489_0052_0FA6736D6ECD79D0"/>
 very desolate. The <hi>Churches</hi> of God in our own Nation, were once Defiled, with an Allowance for <hi>Sports</hi> on the <hi>Sabbath</hi>; and what <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, but heavy speedy confusion upon the Invaders of this glorious Day? Even some of <hi>themselves</hi> have made their considerate Reflections on it! Know That our <hi>Churches</hi> will flourish, as our <hi>Sabbath<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1872,7 +1874,7 @@ very desolate. The <hi>Churches</hi> of God in our own Nation, were once Defiled
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n their whole Business all the Ensuing Week. And a mean Trades-man, obliging himself to those Two Things; <hi>First,</hi> To keep the <hi>Sabbath</hi> with a wonderful exactness; <hi>Secondly,</hi> To set apart a <hi>Tenth</hi> of his Income for pious uses; has quickly come to <hi>Live upon his Rents.</hi> Let us devote our <hi>Sabbaths</hi> to the Blessed God, with all our might; and believe His Word in Isa. 56.2. <hi>Blessed is the
-<pb n="43" facs="tcp:000489_0053_0FA6736E40EE4418"/>
+<pb n="43" facs="unknown:000489_0053_0FA6736E40EE4418"/>
 man, who keeps my Sabbath from polluting of it<g ref="char:punc">▪</g>
                   </hi> But, wo, and wo ten thousand times unto us, if we do not so. It was a speech to some, in Neh. 13.19. <hi>Ye bring fierce Wrath upon Israel, by profaning the Sabbath.</hi> Man, <hi>The fierce wrath</hi> of God upon thy <hi>Person,</hi> and on thy <hi>Family,</hi> and all thy <hi>Neighbour<g ref="char:EOLhyphen"/>hood,</hi> wilt thou pull down by this Abomina<g ref="char:EOLhyphen"/>tion; but above all, it will fetch down a <hi>fierce</hi> fiery <hi>wrath</hi> upon thy own unhappy Soul. It will provoke the Almighty to <hi>Swear in his wrath,</hi> that thou shalt never <hi>en<g ref="char:EOLhyphen"/>ter into his Rest.</hi> The modern Jews have their Fable and Nonsence of a <hi>Sabbath in Hell</hi>; but certainly they that would not have a <hi>Sabbath on Earth,</hi> shall have none in <hi>Hell</hi>; no, they <hi>shall not Rest Day nor Night,</hi> but the <hi>Smoak</hi> with the <hi>Groans</hi> of their Tor<g ref="char:EOLhyphen"/>ments must ascend for ever and ever. We are plainly forewarned of it, in Jer 17 27. <hi>If you will not hallow the Sabbath-day, then will I kindle a Fire, that shall not be Quenched.</hi> The <hi>Day of the Lord</hi> wil be a <hi>fiery</hi> Day to them that shall Dishonour the <hi>Lords-Day.</hi>
                </p>
@@ -1880,7 +1882,7 @@ man, who keeps my Sabbath from polluting of it<g ref="char:punc">▪</g>
             <div n="13" type="observation">
                <head>OBSERVATION XIII.</head>
                <p>The <hi>Church</hi> of God is Raised and lifted up
-<pb n="44" facs="tcp:000489_0054_0FA6736EE5EE0988"/>
+<pb n="44" facs="unknown:000489_0054_0FA6736EE5EE0988"/>
 towards Heaven, by the <hi>Baptism</hi> which is used there. This is that which the Apostle here teaches us; as <hi>Water</hi> carried up the <hi>Ark,</hi> so <hi>Baptism</hi> carries up the <hi>Church,</hi> to<g ref="char:EOLhyphen"/>wards the Heaven of the Blessed. It is thus upon other Accounts; as now, the <hi>Water</hi> of <hi>Affliction,</hi> often serves only to <hi>drown</hi> many ungodly Souls; they grow thereby more <hi>Angry</hi> at God, more <hi>Fixed</hi> in sin; and as 'twas said of him, <hi>In the Time of their Dis<g ref="char:EOLhyphen"/>tresses, they Trespass yet more against the Lord</hi>
                   <g ref="char:punc">▪</g> Thus at last, <hi>They perish in Affliction.</hi> But this <hi>Water</hi> serves to <hi>Raise</hi> and <hi>Lift</hi> the serious Christian, up to greater Degrees of Ac<g ref="char:EOLhyphen"/>quaintance with <hi>Heaven,</hi> and Communion with Him, whose <hi>Voice</hi> is in the <hi>Rod.</hi> In like sort, The <hi>Water</hi> of <hi>Baptism,</hi> it Ruines many foolish people, by Encouraging their <hi>Hopes of Salva<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1898,7 +1900,7 @@ towards Heaven, by the <hi>Baptism</hi> which is used there. This is that which 
                </p>
             </div>
             <div type="application">
-               <pb n="45" facs="tcp:000489_0055_0FA6736F99053660"/>
+               <pb n="45" facs="unknown:000489_0055_0FA6736F99053660"/>
                <head>APPLICATION.</head>
                <p>Let this be the <hi>Happy Effect</hi> of our <hi>Holy Baptism.</hi> Are we <hi>Baptized</hi>? if we are <hi>not</hi>
                   <g ref="char:punc">▪</g> we are very criminal; and the Advice pro<g ref="char:EOLhyphen"/>per to us, is that <hi>Arise and be baptized.</hi> But if we <hi>are,</hi> let our Baptism raise our Souls, with no common elevations.</p>
@@ -1909,7 +1911,7 @@ towards Heaven, by the <hi>Baptism</hi> which is used there. This is that which 
                <p>And let our <hi>Baptism</hi> elevate us to all hea<g ref="char:EOLhyphen"/>venly <hi>Comforts too,</hi> and let us be joyful at the <hi>Obsignations</hi> which it makes unto us. Look on it as, <hi>The mark of the Lamb,</hi> and re<g ref="char:EOLhyphen"/>joyce. Tis said in <hi>Rom.</hi> 6.3, 4. <hi>As many of us as were baptized are buried with Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ist, that like as Christ was raised from the dead, so we should walk in newness of life.</hi> Reckon
-<pb n="46" facs="tcp:000489_0056_0FA673706C4D00E0"/>
+<pb n="46" facs="unknown:000489_0056_0FA673706C4D00E0"/>
 it a sign of your <hi>Interest</hi> in, and <hi>Union</hi> with the Lord Christ; and so let it raise us to a <hi>Triumph</hi> over Death and Hell for ever. We may lay hold on <hi>Heaven</hi> it self, by the help of this <hi>Raising</hi> Ordinance, if with <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t we give the complying and conforming <hi>Answer of a good Conscience,</hi> to all the proposals of the Gospel. In the Gospel tis demanded, <hi>Dost thou renounce the World, the Flesh, and the Devil?</hi> and <hi>Dost thou accept the Lard Jesus, as the Lord-Redeemer of thy Soul?</hi> Now make such an <hi>Answer</hi> as a <hi>good Conscience</hi> would give hereunto; uprightly say, <hi>Lord, I do, I will</hi>! Then this <hi>Water</hi> will raise thee up into life eternal.</p>
@@ -1923,7 +1925,7 @@ it a sign of your <hi>Interest</hi> in, and <hi>Union</hi> with the Lord Christ;
                      </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>spheres:</hi> Now the
-<pb n="47" facs="tcp:000489_0057_0FA6737133B077B8"/>
+<pb n="47" facs="unknown:000489_0057_0FA6737133B077B8"/>
                   <hi>Eternal</hi> has given us assurance that <hi>such</hi> a <hi>Flood</hi> shall never happen any more. The <hi>Rain-bow,</hi> which doubtless existed before the Flood, is now consecrated by God as a <hi>To<g ref="char:EOLhyphen"/>ken</hi> of that <hi>Covenant</hi>; and it is indeed a ve<g ref="char:EOLhyphen"/>ry proper <hi>Token,</hi> for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> it appear in a <hi>cloud</hi> which argues a pluvious disposition of the <hi>Air,</hi> yet the <hi>Sun</hi> must then also shine<g ref="char:punc">▪</g> which argues that there shall be no more <hi>universal Showers.</hi> Hence a <hi>Rain-bow</hi> is never to be beheld without an <hi>Hallelujah.</hi>
@@ -1934,7 +1936,7 @@ it a sign of your <hi>Interest</hi> in, and <hi>Union</hi> with the Lord Christ;
                   </gap>, a <hi>Conflagration</hi> with which the World shall be devoured. <hi>Josephus</hi> relate<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> that <hi>Adam</hi> himself left some predictions of it. But the Sacred Scripturess favour us with fuller Accounts of this awful Thing. Tis a solemn Passage, in 2 <hi>Pet.</hi> 3.7. <hi>The Heavens and Earth which are now, be reserved unto Fire against the day of Judgment, and the perdition of ungodly men.</hi> Many curious
-<pb n="48" facs="tcp:000489_0058_0FA67373B57472C0"/>
+<pb n="48" facs="unknown:000489_0058_0FA67373B57472C0"/>
 Questions might indeed be moved here about. It is one question, <hi>When this Confla<g ref="char:EOLhyphen"/>gration is to be</hi>? To this the Answer is, <hi>At the Day of Judgment</hi>: If any ask, whether it shall be at the <hi>beginning,</hi> or the <hi>middle,</hi> or the <hi>ending</hi> of that Day? it is most like to be before the ending of of it. Yea the fi<g ref="char:EOLhyphen"/>nal Destruction of <hi>Antichrist</hi> seems the period at which it shall commence. It is also an other Question, <hi>How far this Conflagration is to reach</hi>? To this the Answer is, I suppose it will reach no further than this lower <hi>World:</hi> this <hi>lower Heaven,</hi> and all the <hi>Armies</hi> of <hi>Birds,</hi> or of <hi>Devils</hi> in it; this <hi>lower Earth,</hi> and all the <hi>Works</hi> of <hi>Art</hi> or of <hi>Nature</hi> in it, shall be concerned in this horrible <hi>Fiery Flood.</hi> Yet the World shall not be <hi>Annihi<g ref="char:EOLhyphen"/>lated</hi>; it shall only be <hi>Refined</hi> and <hi>Purified,</hi> that it may be serviceable unto some glo<g ref="char:EOLhyphen"/>rious ends, yet to be pursu'd upon it. But let our <hi>Enquiring</hi> of be turn'd into <hi>preparing</hi> for this <hi>Day of the Lord, that shall burn lik<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -1948,7 +1950,7 @@ Questions might indeed be moved here about. It is one question, <hi>When this Co
                <p>There are two or three things now in cumbent on us.</p>
                <p>
                   <hi>First,</hi> Let our <hi>Thoughts</hi> be <hi>much</hi> set upon the <hi>Burnings</hi> of the World. Realize the
-<pb n="49" facs="tcp:000489_0059_0FA6737457AC0348"/>
+<pb n="49" facs="unknown:000489_0059_0FA6737457AC0348"/>
 circumstances of the dreadful Day, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> 
@@ -1960,7 +1962,7 @@ circumstances of the dreadful Day, whe<gap reason="illegible" resp="#PDCC" exten
                         <desc>••</desc>
                      </gap>ry, and His Rebukes with Flames of Fire.</hi> For we are told in <hi>Isa.</hi> 66.16. <hi>By Fire will the Lord plead with all Flesh, and the slain of the Lord shall be many.</hi> Let us blow up this dire<g ref="char:EOLhyphen"/>ful <hi>Fire,</hi> in our daily Meditations on it· O warm your Hearts often, at this amazing <hi>Fire</hi> of the Lord.</p>
                <p>Secondly, Let our <hi>Hearts</hi> be <hi>not</hi> set upon the <hi>Comforts</hi> of the world. The Day will come, when an hideous <hi>Fire</hi> will <hi>sieze</hi> upon them all. Now let that <hi>Fire</hi> cool our Love to all things here below. Our Lord said in <hi>Mat.</hi> 6.19. <hi>Lay not up for your selves Trea<g ref="char:EOLhyphen"/>sures upon Earth, where Moth and Rust doth corrupt.</hi> Even so, <hi>promise not your selves Com<g ref="char:EOLhyphen"/>forts upon Earth where the Fire shall carry all a<g ref="char:EOLhyphen"/>way.</hi> One saith well, <hi>The World shall one
-<pb n="50" facs="tcp:000489_0060_0FA67374D9508B88"/>
+<pb n="50" facs="unknown:000489_0060_0FA67374D9508B88"/>
 one Day be burned for a Witch.</hi> Let not our Souls now be <hi>Bewitched</hi> with what shall one Day be <hi>Burned</hi>; and this the rather, because as I am verily perswaded, this Burning is unspeakably nearer than Mankind is well aware. <hi>I</hi> may say of it, <hi>It is Near, it is Near, and it hastens greatly!</hi>
                </p>
             </div>
@@ -1968,12 +1970,12 @@ one Day be burned for a Witch.</hi> Let not our Souls now be <hi>Bewitched</hi> 
                <head>OBSERVATION. XV</head>
                <p>
                   <hi>There are but Few that shall be Saved.</hi> Says the Apostle here, <hi>In the Ark, Few, That is, Eight Souls were saved.</hi> He that ponders the Longevity of the Antediluvian Patriarchs, will not wonder at them, who affirm it pro<g ref="char:EOLhyphen"/>bable. <hi>That more people perished in the Flood, than are now alive in the world.</hi> For let us make a Computation with as much Disad<g ref="char:EOLhyphen"/>vantage to our own Assertion, as can Rea<g ref="char:EOLhyphen"/>sonably be desired. We'l abate two or three of the first Centuries, by which time the world might be supply'd with people not a few; and we'l suppose a man to have Chil<g ref="char:EOLunhyphen"/>dren at <hi>sixty,</hi> and in the Next <hi>Forty</hi> years, to have <hi>Twenty</hi> Children. Now single out the <hi>shortest Liver</hi> of any mentioned (except <hi>Enoch</hi>) before the <hi>Flood</hi>; and from that one Stock of <hi>seven hundred years,</hi> multiply<g ref="char:EOLhyphen"/>ing still by Twenty, we shall find the pro<g ref="char:EOLhyphen"/>duct to be more than One Thousand, Three Hundred, and Forty seven Millions; thus
-<pb n="51" facs="tcp:000489_0061_0FA67375D5164120"/>
+<pb n="51" facs="unknown:000489_0061_0FA67375D5164120"/>
 that <hi>One Family</hi> would long before the Flood have afforded, it may be as many people as are now Living on the Earth. Moreover, if we consider that within a very few Cen<g ref="char:EOLhyphen"/>turies of years <hi>after</hi> the <hi>Flood,</hi> Histories tell us of <hi>one Army,</hi> in which were, <hi>Thirteen Hundred Thousand</hi> Foot, <hi>Five Hundred Thou<g ref="char:EOLhyphen"/>sand</hi> Horse, <hi>One Hundred Thousand</hi> Chari<g ref="char:EOLhyphen"/>ots, and as many Camels; and <hi>this Army</hi> Encountred by a greater Force; it may fa<g ref="char:EOLhyphen"/>cilitate our Belief of the wonderful popu<g ref="char:EOLhyphen"/>losity which might be before. But what be<g ref="char:EOLhyphen"/>came of all that <hi>Mighty People</hi>? Truly, all were <hi>Drown'd</hi> but <hi>Eight Souls!</hi> And though it be not for us to Censure too far upon the Eternal Condition of that miserable peo<g ref="char:EOLhyphen"/>ple: it being possible that <hi>more</hi>
                   <g ref="char:punc">▪</g> than we know of might be <hi>Happy</hi> for ever, not<g ref="char:EOLhyphen"/>withstanding their <hi>Drowning</hi> here; yet the Scripture speaks very sadly about the Gene<g ref="char:EOLhyphen"/>rality of them, whom the <hi>Waters</hi> did exter<g ref="char:EOLhyphen"/>minate. We read in Job 22.15, 16, 17. That they were <hi>wicked men.</hi> Compare Mat<g ref="char:punc">▪</g> 24.38, 39. And we are told in 1 Pet. 3:19, 20. Their <hi>Spirits are now in Prison.</hi> The Jews themselves therefore pass that Sentence on them, <hi>That they were punished with the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>calding Waters of Gehinnom.</hi> Even so, They that shall be Saved, <hi>How many are they</hi>?
-<pb n="52" facs="tcp:000489_0062_0FA6737657D87A18"/>
+<pb n="52" facs="unknown:000489_0062_0FA6737657D87A18"/>
 They are as we are informed in Luke 12.32. A <hi>Little, Little Flock!</hi> Divide all the World at this Day into <hi>Thirty One</hi> parts, <hi>Nineteen</hi> are Idolaters, <hi>Seven</hi> are Mahome<g ref="char:EOLhyphen"/>tans, and scarce <hi>Five</hi> are so much as called Christians. But of them that are called <hi>Christians,</hi> how few have that <hi>Holiness, with<g ref="char:EOLhyphen"/>out which no man shall see the Lord</hi>? how few have true <hi>Faith</hi>? Yet <hi>he that Believeth no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> shall be Damned.</hi> It is indeed a principle in the Turkish <hi>Alcoran,</hi> That <hi>Let a mans Reli<g ref="char:EOLhyphen"/>gion be what it will, he shall be saved, if he Conscienciously Live up to the Rules of it.</hi> And they are <hi>Mahometans</hi> rather than <hi>Christians,</hi> who shall defend a principle so derogatory to the vertue of the Gospel. The Articles of the Church of <hi>England,</hi> very justly tell us, <hi>They are to be held Accursed, who presume <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1984,7 +1986,7 @@ They are as we are informed in Luke 12.32. A <hi>Little, Little Flock!</hi> Divi
                </p>
             </div>
             <div type="application">
-               <pb facs="tcp:000489_0063_0FA6737B1B44BA68"/>
+               <pb facs="unknown:000489_0063_0FA6737B1B44BA68"/>
                <head>APPLICATION.</head>
                <p>Let us all make the <hi>Use</hi> which our Savi<g ref="char:EOLhyphen"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2025,7 +2027,7 @@ They are as we are informed in Luke 12.32. A <hi>Little, Little Flock!</hi> Divi
                   </gap>nd be extreamly careful that we be not a<g ref="char:EOLhyphen"/>mong those who are <hi>Deceivers of their own S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>uls.</hi> May the God of all Grace, awaken us from our Lethargic <hi>Security,</hi> and to an
-<pb n="54" facs="tcp:000489_0064_0FA6737BDA5C7578"/>
+<pb n="54" facs="unknown:000489_0064_0FA6737BDA5C7578"/>
 extraordinary <hi>Sedulity,</hi> in matters<g ref="char:punc">▪</g> of ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Eternal <hi>Salvation</hi>; may He help is to <hi>give all diligence in making our Calling and Election sure</hi>; and to <hi>work out our own Salvation with Fear and Trembling.</hi>
